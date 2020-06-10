@@ -1,4 +1,4 @@
-# AletheiaTools
+# Aletheia Ground Truth Tools (Ground Truth Swiss knife)
 
 Transform and make Metadata
 - transform Transcribus METS to Aletheia Collection-File (METS-File)  
